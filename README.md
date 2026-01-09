@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-Full Stack Developer passionate about creating innovative and efficient solutions. With solid experience in web development, I constantly seek to improve my skills and contribute to challenging projects.
+Full Stack Developer. Always learning.
 
 ## 💻 Tech Stack
 
