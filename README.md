@@ -4,12 +4,12 @@
 
 ## About
 
-Full Stack Developer focused on backend engineering, scalability, and clean architecture.
+**Full Stack Developer** focused on backend engineering, scalability, and clean architecture.
 I value simplicity, clarity, and well-tested solutions.
 
-First encountered programming at 14, building a long-term, evolving connection with software development.
+**First encountered programming at 14**, building a long-term, evolving connection with software development.
 
-Keenly interested in technology, cryptocurrencies & Web3, economics, and artificial intelligence.
+Keenly interested in **technology**, **cryptocurrencies & Web3**, **economics**, and **artificial intelligence**.
 
 Always learning. Always refining.
 
