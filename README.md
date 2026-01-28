@@ -4,8 +4,12 @@
 
 ## About
 
-Full Stack Developer with a strong focus on **backend engineering**, scalability, and clean architecture.  
+Full Stack Developer focused on backend engineering, scalability, and clean architecture.
 I value simplicity, clarity, and well-tested solutions.
+
+First encountered programming at 14, building a long-term, evolving connection with software development.
+
+Keenly interested in technology, cryptocurrencies & Web3, economics, and artificial intelligence.
 
 Always learning. Always refining.
 
@@ -23,6 +27,24 @@ Always learning. Always refining.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## Education
+
+<img src="https://i.imgur.com/VlSQatw.png" style="height:32px; width:auto; margin-right:8px;" align="left" />
+
+**Software Engineering** - Catholic University of Brasília  
+<br clear="left"/>
+
+<img src="https://i.imgur.com/NZn5Oi5.png" style="height:32px; width:auto; margin-right:8px;" align="left" />
+
+**Economics** - Federal University of Goiás  
+<br clear="left"/>
+
+<img src="https://i.imgur.com/cU6q165.png" style="height:32px; width:auto; margin-right:8px;" align="left" />
+
+**CS50’s Web Programming with Python and JavaScript** - Harvard  
+<br clear="left"/>
+
 
 ## Contact
 
